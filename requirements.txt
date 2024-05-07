@@ -1,0 +1,7 @@
+numpy==1.25.2
+streamlit
+gensim==4.3.2
+transformers==4.39.3
+NLTK==3.8.1
+pandas==2.2.1
+scikit-learn
